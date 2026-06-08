@@ -1,9 +1,12 @@
 [package]
+rust-version = "1.70"
+readme = "README.md"
 name = "topo-merge"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/SuperInstance/topo-merge"
+documentation = "https://docs.rs/topo-merge"
 description = "Topological merging of agent belief states — persistent homology for multi-agent consensus"
 keywords = ["topology", "persistent-homology", "multi-agent", "belief-merge", "tda"]
 categories = ["algorithms", "mathematics", "science"]
